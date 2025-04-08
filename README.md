@@ -9,7 +9,7 @@ Telco Customer Churn dataset from IBM (Kaggle).
 - Power BI (for visualization)
 - Jupyter Notebook
 
-#import pandas as pd
+import pandas as pd
 import numpy as np
 import missingno as msno
 import matplotlib.pyplot as plt
